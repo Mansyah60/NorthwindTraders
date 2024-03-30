@@ -1,5 +1,7 @@
 [![Build Status](https://codingflow.visualstudio.com/NorthwindTraders/_apis/build/status/NorthwindTraders%20-%20CI?branchName=master)](https://codingflow.visualstudio.com/NorthwindTraders/_build/latest?definitionId=22&branchName=master)
 
+## This is to check CI-CD on Azure, while repository is in GitHub.
+
 # NorthwindTraders
 
 Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core. The architecture and design of the project is explained in the video:
